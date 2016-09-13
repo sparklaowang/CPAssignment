@@ -1,0 +1,6 @@
+main.c --> main part
+Col.c --> cross correlation check program
+Uni.c --> uniformity checking program
+power.h -->a fast power function
+default.eps --> a vector image for 20milion random points
+dat --> some .dat and some .png 
