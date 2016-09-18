@@ -3,7 +3,7 @@ long double power(long double under , int index)
 	switch(index)
 	{
 		case 0 :
-			return(0);
+			return(1);
 		break;
 		case 1: 
 			return(under);
